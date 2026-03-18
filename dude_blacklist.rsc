@@ -1763,6 +1763,7 @@ add list=Dude_blacklist address=20.14.87.238
 add list=Dude_blacklist address=20.15.200.1
 add list=Dude_blacklist address=20.15.201.69
 add list=Dude_blacklist address=20.15.224.241
+add list=Dude_blacklist address=20.15.225.33
 add list=Dude_blacklist address=20.150.200.255
 add list=Dude_blacklist address=20.150.201.162
 add list=Dude_blacklist address=20.150.202.183
