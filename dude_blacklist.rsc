@@ -3061,7 +3061,6 @@ add list=Dude_blacklist address=71.6.232.29
 add list=Dude_blacklist address=71.6.232.30
 add list=Dude_blacklist address=72.14.178.148
 add list=Dude_blacklist address=74.226.112.79
-add list=Dude_blacklist address=74.249.177.110
 add list=Dude_blacklist address=74.249.192.21
 add list=Dude_blacklist address=74.3.163.140
 add list=Dude_blacklist address=74.3.163.226
