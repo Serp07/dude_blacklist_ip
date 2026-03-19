@@ -3257,6 +3257,7 @@ add list=Dude_blacklist address=95.214.53.198
 add list=Dude_blacklist address=95.214.55.132
 add list=Dude_blacklist address=95.214.55.92
 add list=Dude_blacklist address=95.215.45.178
+add list=Dude_blacklist address=95.216.222.221
 add list=Dude_blacklist address=95.97.67.189
 add list=Dude_blacklist address=96.126.96.215
 add list=Dude_blacklist address=96.126.96.52
