@@ -1097,7 +1097,6 @@ add list=Dude_blacklist address=172.171.245.182
 add list=Dude_blacklist address=172.171.245.245
 add list=Dude_blacklist address=172.171.246.32
 add list=Dude_blacklist address=172.172.245.144
-add list=Dude_blacklist address=172.174.225.60
 add list=Dude_blacklist address=172.174.236.9
 add list=Dude_blacklist address=172.174.243.1
 add list=Dude_blacklist address=172.174.244.189
