@@ -6,6 +6,8 @@
 IP Address List is based on detecting port scans through traps, as well as random connections to the dude server or the Mikrotik itself.
 To add in automatic mode, you just need to create a script in Mikrotik.
 
+###Script for adding
+```
 /tool fetch url="https://raw.githubusercontent.com/Serp07/dude_blacklist_ip/main/dude_blacklist.rsc" mode=https dst-path=dude_blacklist.rsc
 
 :delay 2
@@ -25,4 +27,4 @@ To add in automatic mode, you just need to create a script in Mikrotik.
 }
 
 }
-
+```
