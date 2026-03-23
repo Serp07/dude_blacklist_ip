@@ -4,7 +4,7 @@
 [![required RouterOS version](https://img.shields.io/badge/RouterOS-6.xx-yellow?style=flat)](https://mikrotik.com/download/changelogs/)
 # MikroTik dude blacklist ip Address List
 IP Address List is based on detecting port scans through traps, as well as random connections to the dude server or the Mikrotik itself.
-To add in automatic mode, you just need to create a script in Mikrotik.
+To add in automatic mode, you just need to create a script in Mikrotik. The script will also add a rule to the firewall to automatically block requests from the IP address list.
 
 ### Script for adding
 ```
@@ -28,3 +28,6 @@ To add in automatic mode, you just need to create a script in Mikrotik.
 
 }
 ```
+### Scheduler
+Next, you need to start a scheduler and define the interval at which the script will automatically run.
+Go to System > Scheduler > Add > "name your script" 
