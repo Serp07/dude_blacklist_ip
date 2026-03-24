@@ -1583,6 +1583,7 @@ add list=Dude_blacklist address=193.235.207.78
 add list=Dude_blacklist address=193.32.163.198
 add list=Dude_blacklist address=193.39.68.51
 add list=Dude_blacklist address=193.42.246.184
+add list=Dude_blacklist address=194.104.94.221
 add list=Dude_blacklist address=194.15.113.112
 add list=Dude_blacklist address=194.156.155.240
 add list=Dude_blacklist address=194.156.163.161
