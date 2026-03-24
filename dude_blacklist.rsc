@@ -683,6 +683,7 @@ add list=Dude_blacklist address=147.135.85.141
 add list=Dude_blacklist address=147.135.85.143
 add list=Dude_blacklist address=147.182.135.99
 add list=Dude_blacklist address=147.182.150.111
+add list=Dude_blacklist address=147.185.132.153
 add list=Dude_blacklist address=147.185.132.22
 add list=Dude_blacklist address=147.185.132.231
 add list=Dude_blacklist address=147.185.132.47
