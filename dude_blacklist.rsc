@@ -613,6 +613,7 @@ add list=Dude_blacklist address=139.198.0.46
 add list=Dude_blacklist address=139.198.191.80
 add list=Dude_blacklist address=139.198.21.91
 add list=Dude_blacklist address=139.227.161.244
+add list=Dude_blacklist address=139.227.62.175
 add list=Dude_blacklist address=139.28.5.4
 add list=Dude_blacklist address=139.59.0.211
 add list=Dude_blacklist address=139.59.191.30
