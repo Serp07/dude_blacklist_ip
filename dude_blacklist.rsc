@@ -1014,6 +1014,7 @@ add list=Dude_blacklist address=167.94.146.58
 add list=Dude_blacklist address=167.94.146.59
 add list=Dude_blacklist address=167.94.146.60
 add list=Dude_blacklist address=167.94.146.62
+add list=Dude_blacklist address=167.99.125.130
 add list=Dude_blacklist address=168.110.200.135
 add list=Dude_blacklist address=168.138.29.53
 add list=Dude_blacklist address=168.138.77.168
