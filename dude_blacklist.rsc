@@ -2160,6 +2160,7 @@ add list=Dude_blacklist address=216.180.246.93
 add list=Dude_blacklist address=216.230.232.204
 add list=Dude_blacklist address=216.239.34.223
 add list=Dude_blacklist address=216.73.159.40
+add list=Dude_blacklist address=217.12.206.132
 add list=Dude_blacklist address=217.142.184.62
 add list=Dude_blacklist address=217.182.213.59
 add list=Dude_blacklist address=217.211.13.68
