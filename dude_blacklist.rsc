@@ -3107,6 +3107,7 @@ add list=Dude_blacklist address=66.132.153.141
 add list=Dude_blacklist address=66.132.153.142
 add list=Dude_blacklist address=66.132.172.129
 add list=Dude_blacklist address=66.132.186.197
+add list=Dude_blacklist address=66.132.195.116
 add list=Dude_blacklist address=66.132.195.33
 add list=Dude_blacklist address=66.132.195.50
 add list=Dude_blacklist address=66.132.195.70
