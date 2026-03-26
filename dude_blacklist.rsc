@@ -992,6 +992,7 @@ add list=Dude_blacklist address=165.227.62.247
 add list=Dude_blacklist address=165.227.83.102
 add list=Dude_blacklist address=165.227.83.157
 add list=Dude_blacklist address=165.232.139.206
+add list=Dude_blacklist address=165.245.227.5
 add list=Dude_blacklist address=167.148.195.165
 add list=Dude_blacklist address=167.71.159.81
 add list=Dude_blacklist address=167.71.178.212
