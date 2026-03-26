@@ -8,6 +8,7 @@ add list=Dude_blacklist address=1.25.75.151
 add list=Dude_blacklist address=1.71.133.128
 add list=Dude_blacklist address=1.83.125.111
 add list=Dude_blacklist address=1.85.218.210
+add list=Dude_blacklist address=1.92.10.241
 add list=Dude_blacklist address=1.94.63.162
 add list=Dude_blacklist address=100.31.65.64
 add list=Dude_blacklist address=100.48.209.123
