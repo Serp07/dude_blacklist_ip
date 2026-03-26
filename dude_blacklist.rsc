@@ -1723,6 +1723,7 @@ add list=Dude_blacklist address=198.58.100.37
 add list=Dude_blacklist address=199.102.44.95
 add list=Dude_blacklist address=199.119.65.145
 add list=Dude_blacklist address=199.119.65.153
+add list=Dude_blacklist address=199.19.72.125
 add list=Dude_blacklist address=199.45.154.112
 add list=Dude_blacklist address=199.45.154.113
 add list=Dude_blacklist address=199.45.154.115
