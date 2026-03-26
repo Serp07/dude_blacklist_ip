@@ -1036,6 +1036,7 @@ add list=Dude_blacklist address=169.38.89.245
 add list=Dude_blacklist address=169.45.88.51
 add list=Dude_blacklist address=169.51.56.167
 add list=Dude_blacklist address=169.53.189.91
+add list=Dude_blacklist address=169.54.71.67
 add list=Dude_blacklist address=170.187.139.165
 add list=Dude_blacklist address=170.39.224.220
 add list=Dude_blacklist address=170.39.225.147
