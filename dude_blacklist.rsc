@@ -1999,6 +1999,7 @@ add list=Dude_blacklist address=20.64.105.77
 add list=Dude_blacklist address=20.64.105.82
 add list=Dude_blacklist address=20.64.106.117
 add list=Dude_blacklist address=20.64.106.155
+add list=Dude_blacklist address=20.64.106.28
 add list=Dude_blacklist address=20.64.106.41
 add list=Dude_blacklist address=20.64.106.77
 add list=Dude_blacklist address=20.64.96.205
