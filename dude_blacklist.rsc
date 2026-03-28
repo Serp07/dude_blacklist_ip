@@ -833,6 +833,7 @@ add list=Dude_blacklist address=154.29.70.217
 add list=Dude_blacklist address=154.38.168.220
 add list=Dude_blacklist address=154.39.79.17
 add list=Dude_blacklist address=154.39.81.222
+add list=Dude_blacklist address=154.70.207.100
 add list=Dude_blacklist address=154.85.45.15
 add list=Dude_blacklist address=154.90.33.214
 add list=Dude_blacklist address=155.248.229.46
