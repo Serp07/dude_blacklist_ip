@@ -2463,6 +2463,7 @@ add list=Dude_blacklist address=36.134.27.97
 add list=Dude_blacklist address=36.134.3.92
 add list=Dude_blacklist address=36.134.67.97
 add list=Dude_blacklist address=36.134.74.163
+add list=Dude_blacklist address=36.134.79.130
 add list=Dude_blacklist address=36.134.93.14
 add list=Dude_blacklist address=36.137.36.73
 add list=Dude_blacklist address=36.137.50.67
