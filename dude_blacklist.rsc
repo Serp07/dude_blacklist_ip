@@ -3373,6 +3373,7 @@ add list=Dude_blacklist address=89.147.110.41
 add list=Dude_blacklist address=89.150.40.36
 add list=Dude_blacklist address=89.187.190.210
 add list=Dude_blacklist address=89.221.224.146
+add list=Dude_blacklist address=89.234.197.214
 add list=Dude_blacklist address=89.248.167.131
 add list=Dude_blacklist address=89.248.172.16
 add list=Dude_blacklist address=89.32.150.102
