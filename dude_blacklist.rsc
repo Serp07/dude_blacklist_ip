@@ -480,6 +480,7 @@ add list=Dude_blacklist address=128.1.59.38
 add list=Dude_blacklist address=128.1.64.45
 add list=Dude_blacklist address=128.1.65.42
 add list=Dude_blacklist address=128.1.86.214
+add list=Dude_blacklist address=128.1.92.38
 add list=Dude_blacklist address=128.14.200.39
 add list=Dude_blacklist address=128.14.225.253
 add list=Dude_blacklist address=128.14.226.191
