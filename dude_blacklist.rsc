@@ -3353,6 +3353,7 @@ add list=Dude_blacklist address=66.228.62.150
 add list=Dude_blacklist address=66.240.223.240
 add list=Dude_blacklist address=66.240.236.116
 add list=Dude_blacklist address=67.205.150.14
+add list=Dude_blacklist address=67.21.32.206
 add list=Dude_blacklist address=67.21.32.58
 add list=Dude_blacklist address=67.21.32.64
 add list=Dude_blacklist address=68.183.119.238
