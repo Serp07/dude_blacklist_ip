@@ -537,6 +537,8 @@ add list=Dude_blacklist address=13.114.34.80
 add list=Dude_blacklist address=13.125.219.58
 add list=Dude_blacklist address=13.125.221.145
 add list=Dude_blacklist address=13.214.186.35
+add list=Dude_blacklist address=13.216.244.18
+add list=Dude_blacklist address=13.217.18.209
 add list=Dude_blacklist address=13.217.39.150
 add list=Dude_blacklist address=13.229.236.18
 add list=Dude_blacklist address=13.244.111.3
