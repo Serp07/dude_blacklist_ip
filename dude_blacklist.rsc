@@ -3266,6 +3266,7 @@ add list=Dude_blacklist address=52.81.218.36
 add list=Dude_blacklist address=52.81.37.70
 add list=Dude_blacklist address=52.81.39.86
 add list=Dude_blacklist address=52.81.62.215
+add list=Dude_blacklist address=52.81.68.216
 add list=Dude_blacklist address=52.81.79.177
 add list=Dude_blacklist address=52.81.89.202
 add list=Dude_blacklist address=52.81.97.118
