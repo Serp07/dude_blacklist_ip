@@ -635,6 +635,7 @@ add list=Dude_blacklist address=134.112.17.73
 add list=Dude_blacklist address=134.122.35.65
 add list=Dude_blacklist address=134.122.6.75
 add list=Dude_blacklist address=134.199.229.238
+add list=Dude_blacklist address=134.199.238.31
 add list=Dude_blacklist address=134.209.76.64
 add list=Dude_blacklist address=134.249.4.165
 add list=Dude_blacklist address=134.65.61.251
