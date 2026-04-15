@@ -983,6 +983,7 @@ add list=Dude_blacklist address=157.90.252.35
 add list=Dude_blacklist address=158.101.233.87
 add list=Dude_blacklist address=158.220.84.193
 add list=Dude_blacklist address=158.23.138.101
+add list=Dude_blacklist address=158.51.126.229
 add list=Dude_blacklist address=158.69.122.218
 add list=Dude_blacklist address=159.195.79.176
 add list=Dude_blacklist address=159.203.135.96
@@ -3373,8 +3374,10 @@ add list=Dude_blacklist address=54.180.8.120
 add list=Dude_blacklist address=54.186.10.196
 add list=Dude_blacklist address=54.207.210.168
 add list=Dude_blacklist address=54.209.248.196
+add list=Dude_blacklist address=54.222.145.162
 add list=Dude_blacklist address=54.223.126.9
 add list=Dude_blacklist address=54.225.33.214
+add list=Dude_blacklist address=54.237.240.210
 add list=Dude_blacklist address=54.242.72.86
 add list=Dude_blacklist address=54.242.80.241
 add list=Dude_blacklist address=54.243.7.180
