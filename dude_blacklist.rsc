@@ -2040,6 +2040,7 @@ add list=Dude_blacklist address=195.184.76.94
 add list=Dude_blacklist address=195.184.76.96
 add list=Dude_blacklist address=195.184.76.98
 add list=Dude_blacklist address=195.22.157.61
+add list=Dude_blacklist address=195.226.192.185
 add list=Dude_blacklist address=195.238.126.160
 add list=Dude_blacklist address=195.251.255.68
 add list=Dude_blacklist address=195.3.222.214
