@@ -800,6 +800,7 @@ add list=Dude_blacklist address=141.227.165.22
 add list=Dude_blacklist address=141.255.165.88
 add list=Dude_blacklist address=141.76.94.12
 add list=Dude_blacklist address=141.95.60.106
+add list=Dude_blacklist address=141.98.46.26
 add list=Dude_blacklist address=141.98.83.48
 add list=Dude_blacklist address=142.250.109.94
 add list=Dude_blacklist address=142.250.130.94
@@ -2137,6 +2138,7 @@ add list=Dude_blacklist address=198.199.95.91
 add list=Dude_blacklist address=198.199.96.71
 add list=Dude_blacklist address=198.199.98.21
 add list=Dude_blacklist address=198.211.107.242
+add list=Dude_blacklist address=198.211.109.248
 add list=Dude_blacklist address=198.235.24.112
 add list=Dude_blacklist address=198.235.24.124
 add list=Dude_blacklist address=198.235.24.153
