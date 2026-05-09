@@ -903,6 +903,7 @@ add list=Dude_blacklist address=148.153.65.34
 add list=Dude_blacklist address=148.72.152.210
 add list=Dude_blacklist address=149.102.134.148
 add list=Dude_blacklist address=149.104.163.39
+add list=Dude_blacklist address=149.104.79.80
 add list=Dude_blacklist address=149.129.213.150
 add list=Dude_blacklist address=149.13.56.19
 add list=Dude_blacklist address=149.13.56.49
