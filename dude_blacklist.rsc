@@ -756,6 +756,7 @@ add list=Dude_blacklist address=137.184.235.150
 add list=Dude_blacklist address=137.184.28.57
 add list=Dude_blacklist address=137.184.32.81
 add list=Dude_blacklist address=137.184.4.105
+add list=Dude_blacklist address=137.184.92.202
 add list=Dude_blacklist address=138.186.140.29
 add list=Dude_blacklist address=138.186.143.16
 add list=Dude_blacklist address=138.197.16.14
