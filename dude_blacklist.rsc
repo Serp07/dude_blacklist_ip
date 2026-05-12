@@ -3833,6 +3833,7 @@ add list=Dude_blacklist address=54.223.126.9
 add list=Dude_blacklist address=54.224.112.38
 add list=Dude_blacklist address=54.224.209.88
 add list=Dude_blacklist address=54.225.33.214
+add list=Dude_blacklist address=54.234.47.25
 add list=Dude_blacklist address=54.237.240.210
 add list=Dude_blacklist address=54.242.72.86
 add list=Dude_blacklist address=54.242.80.241
