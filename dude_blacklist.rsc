@@ -3701,6 +3701,7 @@ add list=Dude_blacklist address=51.224.143.250
 add list=Dude_blacklist address=51.224.174.174
 add list=Dude_blacklist address=51.224.219.77
 add list=Dude_blacklist address=51.224.235.150
+add list=Dude_blacklist address=51.224.30.180
 add list=Dude_blacklist address=51.224.43.3
 add list=Dude_blacklist address=51.224.51.170
 add list=Dude_blacklist address=51.224.54.224
