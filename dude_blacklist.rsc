@@ -4423,6 +4423,7 @@ add list=Dude_blacklist address=94.74.67.250
 add list=Dude_blacklist address=94.74.70.104
 add list=Dude_blacklist address=94.74.72.23
 add list=Dude_blacklist address=95.164.46.146
+add list=Dude_blacklist address=95.169.191.247
 add list=Dude_blacklist address=95.179.188.20
 add list=Dude_blacklist address=95.179.213.210
 add list=Dude_blacklist address=95.214.53.198
