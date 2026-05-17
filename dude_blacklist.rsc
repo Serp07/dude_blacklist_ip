@@ -3102,6 +3102,7 @@ add list=Dude_blacklist address=35.214.26.23
 add list=Dude_blacklist address=35.214.88.72
 add list=Dude_blacklist address=35.214.96.152
 add list=Dude_blacklist address=35.216.70.122
+add list=Dude_blacklist address=35.221.4.19
 add list=Dude_blacklist address=35.228.81.131
 add list=Dude_blacklist address=35.230.43.50
 add list=Dude_blacklist address=35.235.110.103
