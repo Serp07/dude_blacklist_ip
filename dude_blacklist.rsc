@@ -2150,6 +2150,7 @@ add list=Dude_blacklist address=194.187.176.128
 add list=Dude_blacklist address=194.187.176.146
 add list=Dude_blacklist address=194.187.176.148
 add list=Dude_blacklist address=194.187.176.162
+add list=Dude_blacklist address=194.187.176.167
 add list=Dude_blacklist address=194.187.176.190
 add list=Dude_blacklist address=194.187.176.47
 add list=Dude_blacklist address=194.187.176.82
