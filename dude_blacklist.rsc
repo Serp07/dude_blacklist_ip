@@ -1823,6 +1823,7 @@ add list=Dude_blacklist address=18.220.154.78
 add list=Dude_blacklist address=18.220.248.172
 add list=Dude_blacklist address=18.221.100.43
 add list=Dude_blacklist address=18.221.214.151
+add list=Dude_blacklist address=18.222.11.78
 add list=Dude_blacklist address=18.222.192.238
 add list=Dude_blacklist address=18.222.201.82
 add list=Dude_blacklist address=18.222.31.89
