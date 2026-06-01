@@ -597,6 +597,7 @@ add list=Dude_blacklist address=124.95.146.204
 add list=Dude_blacklist address=125.122.157.90
 add list=Dude_blacklist address=125.212.218.63
 add list=Dude_blacklist address=125.32.64.172
+add list=Dude_blacklist address=125.34.171.202
 add list=Dude_blacklist address=125.34.88.165
 add list=Dude_blacklist address=125.39.141.160
 add list=Dude_blacklist address=125.39.141.161
