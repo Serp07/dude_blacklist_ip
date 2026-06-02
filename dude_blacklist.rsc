@@ -4678,6 +4678,8 @@ add list=Dude_blacklist address=91.231.89.139
 add list=Dude_blacklist address=91.231.89.14
 add list=Dude_blacklist address=91.231.89.183
 add list=Dude_blacklist address=91.231.89.184
+add list=Dude_blacklist address=91.231.89.217
+add list=Dude_blacklist address=91.231.89.221
 add list=Dude_blacklist address=91.231.89.245
 add list=Dude_blacklist address=91.231.89.47
 add list=Dude_blacklist address=91.231.89.48
