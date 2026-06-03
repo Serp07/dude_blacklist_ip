@@ -1334,6 +1334,7 @@ add list=Dude_blacklist address=164.90.151.20
 add list=Dude_blacklist address=164.90.228.196
 add list=Dude_blacklist address=164.92.105.231
 add list=Dude_blacklist address=164.92.109.208
+add list=Dude_blacklist address=164.92.110.145
 add list=Dude_blacklist address=164.92.64.160
 add list=Dude_blacklist address=164.92.81.100
 add list=Dude_blacklist address=164.92.86.120
