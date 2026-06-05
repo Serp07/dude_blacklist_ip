@@ -289,6 +289,7 @@ add list=Dude_blacklist address=107.170.254.6
 add list=Dude_blacklist address=107.173.130.138
 add list=Dude_blacklist address=107.173.61.155
 add list=Dude_blacklist address=107.189.20.97
+add list=Dude_blacklist address=108.181.70.139
 add list=Dude_blacklist address=109.104.152.130
 add list=Dude_blacklist address=109.106.188.25
 add list=Dude_blacklist address=109.123.117.235
