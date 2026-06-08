@@ -3984,6 +3984,7 @@ add list=Dude_blacklist address=5.181.25.27
 add list=Dude_blacklist address=5.181.77.111
 add list=Dude_blacklist address=5.182.36.155
 add list=Dude_blacklist address=5.182.51.188
+add list=Dude_blacklist address=5.187.35.142
 add list=Dude_blacklist address=5.187.35.26
 add list=Dude_blacklist address=5.188.108.21
 add list=Dude_blacklist address=5.188.168.70
