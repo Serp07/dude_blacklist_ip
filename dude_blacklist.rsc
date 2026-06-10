@@ -2814,6 +2814,7 @@ add list=Dude_blacklist address=20.65.195.25
 add list=Dude_blacklist address=20.65.195.34
 add list=Dude_blacklist address=20.65.195.44
 add list=Dude_blacklist address=20.65.195.46
+add list=Dude_blacklist address=20.65.195.53
 add list=Dude_blacklist address=20.65.201.33
 add list=Dude_blacklist address=20.65.217.70
 add list=Dude_blacklist address=20.80.105.83
