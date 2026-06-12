@@ -4008,6 +4008,7 @@ add list=Dude_blacklist address=47.77.220.169
 add list=Dude_blacklist address=47.83.34.147
 add list=Dude_blacklist address=47.84.111.212
 add list=Dude_blacklist address=47.84.180.235
+add list=Dude_blacklist address=47.84.227.245
 add list=Dude_blacklist address=47.87.12.140
 add list=Dude_blacklist address=47.88.6.181
 add list=Dude_blacklist address=47.89.154.16
