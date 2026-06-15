@@ -3303,6 +3303,7 @@ add list=Dude_blacklist address=3.147.7.82
 add list=Dude_blacklist address=3.148.178.131
 add list=Dude_blacklist address=3.148.254.183
 add list=Dude_blacklist address=3.149.2.71
+add list=Dude_blacklist address=3.149.255.24
 add list=Dude_blacklist address=3.149.59.26
 add list=Dude_blacklist address=3.15.179.241
 add list=Dude_blacklist address=3.15.180.31
