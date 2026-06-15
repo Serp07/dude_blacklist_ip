@@ -933,6 +933,7 @@ add list=Dude_blacklist address=143.110.231.214
 add list=Dude_blacklist address=143.110.232.204
 add list=Dude_blacklist address=143.110.236.50
 add list=Dude_blacklist address=143.14.34.207
+add list=Dude_blacklist address=143.14.52.37
 add list=Dude_blacklist address=143.14.56.57
 add list=Dude_blacklist address=143.14.90.17
 add list=Dude_blacklist address=143.198.105.44
