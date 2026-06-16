@@ -4957,7 +4957,9 @@ add list=Dude_blacklist address=91.231.89.184
 add list=Dude_blacklist address=91.231.89.217
 add list=Dude_blacklist address=91.231.89.221
 add list=Dude_blacklist address=91.231.89.233
+add list=Dude_blacklist address=91.231.89.241
 add list=Dude_blacklist address=91.231.89.245
+add list=Dude_blacklist address=91.231.89.246
 add list=Dude_blacklist address=91.231.89.47
 add list=Dude_blacklist address=91.231.89.48
 add list=Dude_blacklist address=91.231.89.50
