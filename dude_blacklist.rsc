@@ -1808,6 +1808,7 @@ add list=Dude_blacklist address=175.153.165.221
 add list=Dude_blacklist address=175.153.167.179
 add list=Dude_blacklist address=175.178.196.243
 add list=Dude_blacklist address=175.178.23.43
+add list=Dude_blacklist address=175.21.243.93
 add list=Dude_blacklist address=175.21.254.54
 add list=Dude_blacklist address=175.30.48.185
 add list=Dude_blacklist address=175.30.48.220
