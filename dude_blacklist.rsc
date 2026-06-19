@@ -4889,6 +4889,7 @@ add list=Dude_blacklist address=88.80.147.64
 add list=Dude_blacklist address=89.106.78.164
 add list=Dude_blacklist address=89.110.119.194
 add list=Dude_blacklist address=89.110.66.106
+add list=Dude_blacklist address=89.116.23.71
 add list=Dude_blacklist address=89.125.95.65
 add list=Dude_blacklist address=89.127.234.214
 add list=Dude_blacklist address=89.144.2.47
