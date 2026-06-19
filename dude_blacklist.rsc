@@ -3007,6 +3007,7 @@ add list=Dude_blacklist address=206.168.34.43
 add list=Dude_blacklist address=206.168.34.47
 add list=Dude_blacklist address=206.168.34.52
 add list=Dude_blacklist address=206.168.34.54
+add list=Dude_blacklist address=206.189.196.4
 add list=Dude_blacklist address=206.189.205.129
 add list=Dude_blacklist address=206.189.23.248
 add list=Dude_blacklist address=206.191.154.172
