@@ -4427,6 +4427,7 @@ add list=Dude_blacklist address=54.86.247.199
 add list=Dude_blacklist address=54.86.90.160
 add list=Dude_blacklist address=54.87.218.198
 add list=Dude_blacklist address=54.88.161.82
+add list=Dude_blacklist address=54.90.98.111
 add list=Dude_blacklist address=56.125.34.57
 add list=Dude_blacklist address=57.129.137.172
 add list=Dude_blacklist address=57.131.13.145
