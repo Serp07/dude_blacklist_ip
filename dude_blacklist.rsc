@@ -706,6 +706,7 @@ add list=Dude_blacklist address=13.40.6.52
 add list=Dude_blacklist address=13.41.160.206
 add list=Dude_blacklist address=13.51.205.138
 add list=Dude_blacklist address=13.58.114.74
+add list=Dude_blacklist address=13.58.136.32
 add list=Dude_blacklist address=13.58.143.67
 add list=Dude_blacklist address=13.58.178.173
 add list=Dude_blacklist address=13.58.203.73
