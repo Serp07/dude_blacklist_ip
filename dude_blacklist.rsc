@@ -1198,6 +1198,7 @@ add list=Dude_blacklist address=154.39.79.17
 add list=Dude_blacklist address=154.39.81.222
 add list=Dude_blacklist address=154.70.207.100
 add list=Dude_blacklist address=154.85.45.15
+add list=Dude_blacklist address=154.85.87.65
 add list=Dude_blacklist address=154.85.88.46
 add list=Dude_blacklist address=154.86.5.163
 add list=Dude_blacklist address=154.86.5.183
