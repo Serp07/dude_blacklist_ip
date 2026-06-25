@@ -4645,6 +4645,7 @@ add list=Dude_blacklist address=66.132.195.70
 add list=Dude_blacklist address=66.132.195.98
 add list=Dude_blacklist address=66.132.224.223
 add list=Dude_blacklist address=66.132.224.235
+add list=Dude_blacklist address=66.132.224.81
 add list=Dude_blacklist address=66.132.224.89
 add list=Dude_blacklist address=66.132.224.92
 add list=Dude_blacklist address=66.132.224.93
