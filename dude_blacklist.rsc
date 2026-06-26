@@ -4610,6 +4610,7 @@ add list=Dude_blacklist address=64.23.135.50
 add list=Dude_blacklist address=64.23.139.18
 add list=Dude_blacklist address=64.23.149.205
 add list=Dude_blacklist address=64.23.167.200
+add list=Dude_blacklist address=64.23.173.181
 add list=Dude_blacklist address=64.23.177.1
 add list=Dude_blacklist address=64.23.179.239
 add list=Dude_blacklist address=64.23.183.32
