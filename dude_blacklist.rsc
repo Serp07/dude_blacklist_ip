@@ -5140,6 +5140,8 @@ add list=Dude_blacklist address=91.231.89.59
 add list=Dude_blacklist address=91.231.89.6
 add list=Dude_blacklist address=91.231.89.62
 add list=Dude_blacklist address=91.231.89.63
+add list=Dude_blacklist address=91.231.89.72
+add list=Dude_blacklist address=91.231.89.73
 add list=Dude_blacklist address=91.231.89.77
 add list=Dude_blacklist address=91.238.105.155
 add list=Dude_blacklist address=91.239.146.131
