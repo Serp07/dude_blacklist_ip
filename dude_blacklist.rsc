@@ -4469,6 +4469,7 @@ add list=Dude_blacklist address=52.81.199.24
 add list=Dude_blacklist address=52.81.218.36
 add list=Dude_blacklist address=52.81.218.49
 add list=Dude_blacklist address=52.81.236.78
+add list=Dude_blacklist address=52.81.237.184
 add list=Dude_blacklist address=52.81.254.37
 add list=Dude_blacklist address=52.81.36.9
 add list=Dude_blacklist address=52.81.37.70
