@@ -2010,6 +2010,7 @@ add list=Dude_blacklist address=18.225.7.162
 add list=Dude_blacklist address=18.228.221.27
 add list=Dude_blacklist address=18.229.148.111
 add list=Dude_blacklist address=18.230.215.189
+add list=Dude_blacklist address=18.234.31.30
 add list=Dude_blacklist address=18.97.19.148
 add list=Dude_blacklist address=18.97.19.199
 add list=Dude_blacklist address=18.97.19.207
@@ -4187,6 +4188,7 @@ add list=Dude_blacklist address=47.250.52.85
 add list=Dude_blacklist address=47.250.80.195
 add list=Dude_blacklist address=47.250.82.141
 add list=Dude_blacklist address=47.250.82.45
+add list=Dude_blacklist address=47.251.116.69
 add list=Dude_blacklist address=47.251.13.59
 add list=Dude_blacklist address=47.251.179.212
 add list=Dude_blacklist address=47.251.248.133
