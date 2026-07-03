@@ -2079,6 +2079,7 @@ add list=Dude_blacklist address=183.221.243.24
 add list=Dude_blacklist address=183.221.243.30
 add list=Dude_blacklist address=183.224.206.143
 add list=Dude_blacklist address=183.236.7.198
+add list=Dude_blacklist address=183.24.174.159
 add list=Dude_blacklist address=183.24.174.42
 add list=Dude_blacklist address=183.24.175.219
 add list=Dude_blacklist address=183.240.23.236
