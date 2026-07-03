@@ -2595,6 +2595,7 @@ add list=Dude_blacklist address=198.235.24.215
 add list=Dude_blacklist address=198.235.24.216
 add list=Dude_blacklist address=198.235.24.231
 add list=Dude_blacklist address=198.235.24.238
+add list=Dude_blacklist address=198.235.24.241
 add list=Dude_blacklist address=198.235.24.242
 add list=Dude_blacklist address=198.235.24.245
 add list=Dude_blacklist address=198.235.24.248
