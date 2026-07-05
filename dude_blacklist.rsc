@@ -3370,6 +3370,7 @@ add list=Dude_blacklist address=23.95.79.150
 add list=Dude_blacklist address=24.144.121.67
 add list=Dude_blacklist address=24.144.89.19
 add list=Dude_blacklist address=24.199.101.48
+add list=Dude_blacklist address=24.199.113.58
 add list=Dude_blacklist address=24.199.127.155
 add list=Dude_blacklist address=24.199.98.202
 add list=Dude_blacklist address=27.128.225.167
