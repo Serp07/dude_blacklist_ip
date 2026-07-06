@@ -973,6 +973,7 @@ add list=Dude_blacklist address=143.110.218.101
 add list=Dude_blacklist address=143.110.218.158
 add list=Dude_blacklist address=143.110.219.205
 add list=Dude_blacklist address=143.110.220.254
+add list=Dude_blacklist address=143.110.227.115
 add list=Dude_blacklist address=143.110.229.255
 add list=Dude_blacklist address=143.110.231.214
 add list=Dude_blacklist address=143.110.232.204
