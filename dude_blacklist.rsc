@@ -192,7 +192,7 @@ add list=Dude_blacklist address=123.160.172.48
 add list=Dude_blacklist address=123.160.173.14
 add list=Dude_blacklist address=123.160.175.152
 add list=Dude_blacklist address=123.160.235.83
-add list=Dude_blacklist address=123.178.210.115
+add list=Dude_blacklist address=123.178.210.113
 add list=Dude_blacklist address=123.178.210.116
 add list=Dude_blacklist address=123.178.210.119
 add list=Dude_blacklist address=123.178.210.254
