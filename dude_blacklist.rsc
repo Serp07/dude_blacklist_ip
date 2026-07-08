@@ -2409,6 +2409,7 @@ add list=Dude_blacklist address=8.211.45.42
 add list=Dude_blacklist address=8.211.47.19
 add list=Dude_blacklist address=8.211.49.185
 add list=Dude_blacklist address=8.211.52.176
+add list=Dude_blacklist address=8.213.137.147
 add list=Dude_blacklist address=8.216.1.47
 add list=Dude_blacklist address=8.216.13.97
 add list=Dude_blacklist address=8.216.17.173
