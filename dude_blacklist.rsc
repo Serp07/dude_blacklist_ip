@@ -33,12 +33,14 @@ add list=Dude_blacklist address=103.116.81.150
 add list=Dude_blacklist address=103.123.18.52
 add list=Dude_blacklist address=103.126.161.16
 add list=Dude_blacklist address=103.149.26.225
+add list=Dude_blacklist address=103.153.254.103
 add list=Dude_blacklist address=103.153.255.107
 add list=Dude_blacklist address=103.16.131.136
 add list=Dude_blacklist address=103.164.173.34
 add list=Dude_blacklist address=103.167.90.90
 add list=Dude_blacklist address=103.176.111.210
 add list=Dude_blacklist address=103.199.18.125
+add list=Dude_blacklist address=103.199.18.204
 add list=Dude_blacklist address=103.218.240.172
 add list=Dude_blacklist address=103.218.241.7
 add list=Dude_blacklist address=103.218.242.181
@@ -163,6 +165,7 @@ add list=Dude_blacklist address=111.203.180.218
 add list=Dude_blacklist address=111.224.218.151
 add list=Dude_blacklist address=111.224.218.83
 add list=Dude_blacklist address=111.224.235.212
+add list=Dude_blacklist address=111.32.152.26
 add list=Dude_blacklist address=111.40.181.23
 add list=Dude_blacklist address=111.40.181.24
 add list=Dude_blacklist address=111.6.188.167
@@ -493,9 +496,11 @@ add list=Dude_blacklist address=147.78.47.161
 add list=Dude_blacklist address=148.153.189.62
 add list=Dude_blacklist address=148.153.56.170
 add list=Dude_blacklist address=148.153.56.174
+add list=Dude_blacklist address=148.72.152.210
 add list=Dude_blacklist address=149.28.143.219
 add list=Dude_blacklist address=149.50.96.114
 add list=Dude_blacklist address=149.62.45.22
+add list=Dude_blacklist address=15.161.96.168
 add list=Dude_blacklist address=15.165.160.247
 add list=Dude_blacklist address=15.204.37.16
 add list=Dude_blacklist address=15.204.37.18
@@ -550,6 +555,7 @@ add list=Dude_blacklist address=152.70.75.102
 add list=Dude_blacklist address=153.0.40.74
 add list=Dude_blacklist address=153.0.81.178
 add list=Dude_blacklist address=153.37.232.22
+add list=Dude_blacklist address=154.205.145.98
 add list=Dude_blacklist address=154.212.141.134
 add list=Dude_blacklist address=154.212.141.135
 add list=Dude_blacklist address=154.212.141.136
@@ -1185,6 +1191,7 @@ add list=Dude_blacklist address=185.230.223.46
 add list=Dude_blacklist address=185.232.205.168
 add list=Dude_blacklist address=185.234.213.135
 add list=Dude_blacklist address=185.234.213.136
+add list=Dude_blacklist address=185.237.185.18
 add list=Dude_blacklist address=185.24.11.146
 add list=Dude_blacklist address=185.242.226.53
 add list=Dude_blacklist address=185.243.5.176
@@ -1200,6 +1207,7 @@ add list=Dude_blacklist address=185.7.219.115
 add list=Dude_blacklist address=185.76.78.162
 add list=Dude_blacklist address=185.85.241.149
 add list=Dude_blacklist address=185.94.239.181
+add list=Dude_blacklist address=185.94.239.186
 add list=Dude_blacklist address=185.94.239.188
 add list=Dude_blacklist address=185.94.239.189
 add list=Dude_blacklist address=185.99.133.240
@@ -2117,6 +2125,7 @@ add list=Dude_blacklist address=36.133.204.100
 add list=Dude_blacklist address=36.137.59.17
 add list=Dude_blacklist address=36.138.58.47
 add list=Dude_blacklist address=36.140.125.81
+add list=Dude_blacklist address=36.143.206.231
 add list=Dude_blacklist address=36.143.206.232
 add list=Dude_blacklist address=36.156.22.4
 add list=Dude_blacklist address=36.156.22.5
@@ -2293,6 +2302,7 @@ add list=Dude_blacklist address=43.248.108.223
 add list=Dude_blacklist address=43.248.108.80
 add list=Dude_blacklist address=43.248.108.96
 add list=Dude_blacklist address=43.248.109.62
+add list=Dude_blacklist address=43.254.216.224
 add list=Dude_blacklist address=44.220.185.10
 add list=Dude_blacklist address=44.220.185.105
 add list=Dude_blacklist address=44.220.185.108
@@ -2808,6 +2818,7 @@ add list=Dude_blacklist address=71.6.165.200
 add list=Dude_blacklist address=71.6.167.142
 add list=Dude_blacklist address=71.6.199.23
 add list=Dude_blacklist address=71.6.199.65
+add list=Dude_blacklist address=71.6.232.29
 add list=Dude_blacklist address=71.6.233.2
 add list=Dude_blacklist address=72.14.178.148
 add list=Dude_blacklist address=74.117.156.95
