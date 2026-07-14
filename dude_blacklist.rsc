@@ -2404,8 +2404,10 @@ add list=Dude_blacklist address=203.56.240.112
 add list=Dude_blacklist address=203.74.130.205
 add list=Dude_blacklist address=203.76.149.218
 add list=Dude_blacklist address=204.16.243.43
+add list=Dude_blacklist address=204.216.214.162
 add list=Dude_blacklist address=204.44.125.237
 add list=Dude_blacklist address=205.210.31.169
+add list=Dude_blacklist address=205.210.31.197
 add list=Dude_blacklist address=205.210.31.202
 add list=Dude_blacklist address=205.210.31.241
 add list=Dude_blacklist address=205.210.31.4
