@@ -1610,6 +1610,7 @@ add list=Dude_blacklist address=180.111.30.58
 add list=Dude_blacklist address=180.130.116.250
 add list=Dude_blacklist address=180.136.232.18
 add list=Dude_blacklist address=180.149.44.144
+add list=Dude_blacklist address=180.242.203.144
 add list=Dude_blacklist address=180.97.188.162
 add list=Dude_blacklist address=181.119.30.11
 add list=Dude_blacklist address=181.13.244.29
