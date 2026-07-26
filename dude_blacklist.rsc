@@ -4121,6 +4121,7 @@ add list=Dude_blacklist address=71.6.199.65
 add list=Dude_blacklist address=71.6.232.23
 add list=Dude_blacklist address=71.6.232.29
 add list=Dude_blacklist address=71.6.233.2
+add list=Dude_blacklist address=71.6.242.132
 add list=Dude_blacklist address=72.14.178.148
 add list=Dude_blacklist address=72.146.225.125
 add list=Dude_blacklist address=74.117.156.95
