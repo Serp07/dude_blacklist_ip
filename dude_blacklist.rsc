@@ -4070,6 +4070,7 @@ add list=Dude_blacklist address=62.77.140.122
 add list=Dude_blacklist address=63.133.223.119
 add list=Dude_blacklist address=63.34.23.74
 add list=Dude_blacklist address=64.110.73.147
+add list=Dude_blacklist address=64.113.5.3
 add list=Dude_blacklist address=64.181.196.84
 add list=Dude_blacklist address=64.225.55.27
 add list=Dude_blacklist address=64.226.110.209
