@@ -4520,6 +4520,7 @@ add list=Dude_blacklist address=91.196.152.100
 add list=Dude_blacklist address=91.196.152.101
 add list=Dude_blacklist address=91.196.152.105
 add list=Dude_blacklist address=91.196.152.106
+add list=Dude_blacklist address=91.196.152.111
 add list=Dude_blacklist address=91.196.152.112
 add list=Dude_blacklist address=91.196.152.116
 add list=Dude_blacklist address=91.196.152.123
