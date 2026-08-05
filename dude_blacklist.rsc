@@ -490,6 +490,7 @@ add list=Dude_blacklist address=120.221.233.40
 add list=Dude_blacklist address=120.221.233.41
 add list=Dude_blacklist address=120.232.250.170
 add list=Dude_blacklist address=120.232.252.226
+add list=Dude_blacklist address=120.238.100.66
 add list=Dude_blacklist address=120.24.52.90
 add list=Dude_blacklist address=120.246.123.50
 add list=Dude_blacklist address=120.246.123.51
@@ -4615,6 +4616,7 @@ add list=Dude_blacklist address=92.223.73.36
 add list=Dude_blacklist address=92.223.73.43
 add list=Dude_blacklist address=92.246.91.196
 add list=Dude_blacklist address=92.249.48.232
+add list=Dude_blacklist address=92.38.135.119
 add list=Dude_blacklist address=92.38.143.43
 add list=Dude_blacklist address=92.38.149.12
 add list=Dude_blacklist address=92.38.169.142
