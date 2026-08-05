@@ -4666,6 +4666,7 @@ add list=Dude_blacklist address=98.80.4.77
 add list=Dude_blacklist address=98.80.4.90
 add list=Dude_blacklist address=98.81.96.173
 add list=Dude_blacklist address=98.86.170.39
+add list=Dude_blacklist address=98.89.36.82
 add list=Dude_blacklist address=98.96.201.194
 add list=Dude_blacklist address=98.96.213.22
 add list=Dude_blacklist address=98.98.13.238
