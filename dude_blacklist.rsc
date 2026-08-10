@@ -345,6 +345,7 @@ add list=Dude_blacklist address=112.192.20.75
 add list=Dude_blacklist address=112.196.203.79
 add list=Dude_blacklist address=112.47.61.98
 add list=Dude_blacklist address=112.47.61.99
+add list=Dude_blacklist address=112.51.13.18
 add list=Dude_blacklist address=112.81.91.191
 add list=Dude_blacklist address=112.85.109.204
 add list=Dude_blacklist address=112.91.138.65
@@ -1107,9 +1108,11 @@ add list=Dude_blacklist address=157.10.227.138
 add list=Dude_blacklist address=157.137.237.166
 add list=Dude_blacklist address=157.143.254.122
 add list=Dude_blacklist address=157.185.163.230
+add list=Dude_blacklist address=157.185.165.59
 add list=Dude_blacklist address=157.20.27.142
 add list=Dude_blacklist address=157.230.10.89
 add list=Dude_blacklist address=157.230.154.90
+add list=Dude_blacklist address=157.230.57.14
 add list=Dude_blacklist address=157.230.80.237
 add list=Dude_blacklist address=157.230.84.198
 add list=Dude_blacklist address=157.240.224.38
@@ -1622,6 +1625,7 @@ add list=Dude_blacklist address=172.245.236.239
 add list=Dude_blacklist address=172.245.237.132
 add list=Dude_blacklist address=172.252.236.38
 add list=Dude_blacklist address=172.255.209.23
+add list=Dude_blacklist address=172.65.147.137
 add list=Dude_blacklist address=172.82.91.18
 add list=Dude_blacklist address=172.86.114.169
 add list=Dude_blacklist address=172.86.95.90
@@ -3057,6 +3061,7 @@ add list=Dude_blacklist address=27.37.69.215
 add list=Dude_blacklist address=27.39.169.40
 add list=Dude_blacklist address=27.98.228.127
 add list=Dude_blacklist address=3.102.214.106
+add list=Dude_blacklist address=3.110.186.68
 add list=Dude_blacklist address=3.12.160.166
 add list=Dude_blacklist address=3.12.36.233
 add list=Dude_blacklist address=3.121.188.36
@@ -3653,6 +3658,7 @@ add list=Dude_blacklist address=45.134.225.248
 add list=Dude_blacklist address=45.134.48.23
 add list=Dude_blacklist address=45.134.91.146
 add list=Dude_blacklist address=45.134.91.187
+add list=Dude_blacklist address=45.135.193.43
 add list=Dude_blacklist address=45.136.59.31
 add list=Dude_blacklist address=45.137.151.11
 add list=Dude_blacklist address=45.138.158.252
