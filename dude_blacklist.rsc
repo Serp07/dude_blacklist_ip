@@ -4816,6 +4816,7 @@ add list=Dude_blacklist address=94.176.161.139
 add list=Dude_blacklist address=94.198.99.44
 add list=Dude_blacklist address=94.20.141.223
 add list=Dude_blacklist address=94.23.206.78
+add list=Dude_blacklist address=94.249.175.111
 add list=Dude_blacklist address=94.74.67.250
 add list=Dude_blacklist address=94.74.70.104
 add list=Dude_blacklist address=94.74.72.23
