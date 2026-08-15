@@ -4640,6 +4640,7 @@ add list=Dude_blacklist address=85.217.149.65
 add list=Dude_blacklist address=85.217.149.68
 add list=Dude_blacklist address=85.217.149.70
 add list=Dude_blacklist address=85.217.149.73
+add list=Dude_blacklist address=85.217.149.74
 add list=Dude_blacklist address=85.217.149.8
 add list=Dude_blacklist address=85.234.66.76
 add list=Dude_blacklist address=85.234.81.18
