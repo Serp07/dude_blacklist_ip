@@ -4313,6 +4313,7 @@ add list=Dude_blacklist address=66.132.172.133
 add list=Dude_blacklist address=66.132.172.139
 add list=Dude_blacklist address=66.132.172.203
 add list=Dude_blacklist address=66.132.172.42
+add list=Dude_blacklist address=66.132.186.175
 add list=Dude_blacklist address=66.132.186.192
 add list=Dude_blacklist address=66.132.186.197
 add list=Dude_blacklist address=66.132.186.200
