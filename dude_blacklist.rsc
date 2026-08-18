@@ -1930,6 +1930,7 @@ add list=Dude_blacklist address=185.186.79.140
 add list=Dude_blacklist address=185.188.30.142
 add list=Dude_blacklist address=185.189.72.128
 add list=Dude_blacklist address=185.189.72.135
+add list=Dude_blacklist address=185.2.80.253
 add list=Dude_blacklist address=185.203.116.186
 add list=Dude_blacklist address=185.205.184.28
 add list=Dude_blacklist address=185.209.84.234
