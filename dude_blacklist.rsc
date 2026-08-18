@@ -4820,7 +4820,9 @@ add list=Dude_blacklist address=91.231.89.184
 add list=Dude_blacklist address=91.231.89.217
 add list=Dude_blacklist address=91.231.89.221
 add list=Dude_blacklist address=91.231.89.229
+add list=Dude_blacklist address=91.231.89.232
 add list=Dude_blacklist address=91.231.89.233
+add list=Dude_blacklist address=91.231.89.234
 add list=Dude_blacklist address=91.231.89.241
 add list=Dude_blacklist address=91.231.89.245
 add list=Dude_blacklist address=91.231.89.246
