@@ -1714,6 +1714,7 @@ add list=Dude_blacklist address=177.177.23.220
 add list=Dude_blacklist address=177.177.27.131
 add list=Dude_blacklist address=178.128.146.116
 add list=Dude_blacklist address=178.128.151.1
+add list=Dude_blacklist address=178.128.234.184
 add list=Dude_blacklist address=178.128.245.202
 add list=Dude_blacklist address=178.158.211.134
 add list=Dude_blacklist address=178.162.145.162
