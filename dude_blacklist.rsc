@@ -4335,6 +4335,7 @@ add list=Dude_blacklist address=63.34.23.74
 add list=Dude_blacklist address=64.110.73.147
 add list=Dude_blacklist address=64.113.5.3
 add list=Dude_blacklist address=64.176.167.168
+add list=Dude_blacklist address=64.176.3.143
 add list=Dude_blacklist address=64.176.41.155
 add list=Dude_blacklist address=64.176.65.129
 add list=Dude_blacklist address=64.177.113.53
