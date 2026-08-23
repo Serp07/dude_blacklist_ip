@@ -3680,6 +3680,7 @@ add list=Dude_blacklist address=43.130.70.156
 add list=Dude_blacklist address=43.131.60.151
 add list=Dude_blacklist address=43.133.132.168
 add list=Dude_blacklist address=43.133.167.75
+add list=Dude_blacklist address=43.134.41.39
 add list=Dude_blacklist address=43.135.199.248
 add list=Dude_blacklist address=43.135.69.172
 add list=Dude_blacklist address=43.142.186.241
