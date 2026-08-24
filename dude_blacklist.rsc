@@ -840,6 +840,7 @@ add list=Dude_blacklist address=139.59.0.211
 add list=Dude_blacklist address=139.64.132.250
 add list=Dude_blacklist address=139.84.162.169
 add list=Dude_blacklist address=139.84.168.77
+add list=Dude_blacklist address=139.84.171.29
 add list=Dude_blacklist address=139.84.227.181
 add list=Dude_blacklist address=139.99.123.84
 add list=Dude_blacklist address=139.99.130.144
@@ -5021,3 +5022,4 @@ add list=Dude_blacklist address=98.98.198.40
 add list=Dude_blacklist address=98.98.3.76
 add list=Dude_blacklist address=98.98.4.41
 add list=Dude_blacklist address=98.98.88.243
+add list=Dude_blacklist address=99.105.57.174
