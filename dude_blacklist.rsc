@@ -215,6 +215,7 @@ add list=Dude_blacklist address=106.13.85.21
 add list=Dude_blacklist address=106.225.167.101
 add list=Dude_blacklist address=106.225.215.47
 add list=Dude_blacklist address=106.255.223.173
+add list=Dude_blacklist address=106.52.43.115
 add list=Dude_blacklist address=106.58.221.33
 add list=Dude_blacklist address=106.74.15.114
 add list=Dude_blacklist address=106.75.12.130
