@@ -2903,6 +2903,7 @@ add list=Dude_blacklist address=203.137.119.106
 add list=Dude_blacklist address=203.174.22.132
 add list=Dude_blacklist address=203.174.22.152
 add list=Dude_blacklist address=203.174.22.19
+add list=Dude_blacklist address=203.178.148.18
 add list=Dude_blacklist address=203.189.7.145
 add list=Dude_blacklist address=203.192.224.78
 add list=Dude_blacklist address=203.223.18.188
