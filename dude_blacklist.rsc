@@ -3901,6 +3901,7 @@ add list=Dude_blacklist address=45.155.91.30
 add list=Dude_blacklist address=45.159.189.211
 add list=Dude_blacklist address=45.179.88.178
 add list=Dude_blacklist address=45.194.67.44
+add list=Dude_blacklist address=45.205.1.246
 add list=Dude_blacklist address=45.227.254.23
 add list=Dude_blacklist address=45.228.67.56
 add list=Dude_blacklist address=45.248.77.48
