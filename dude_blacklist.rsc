@@ -4310,6 +4310,7 @@ add list=Dude_blacklist address=52.82.3.60
 add list=Dude_blacklist address=52.82.34.82
 add list=Dude_blacklist address=52.83.95.107
 add list=Dude_blacklist address=52.90.158.223
+add list=Dude_blacklist address=52.90.179.218
 add list=Dude_blacklist address=54.116.220.185
 add list=Dude_blacklist address=54.146.114.246
 add list=Dude_blacklist address=54.160.186.6
