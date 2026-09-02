@@ -4744,6 +4744,7 @@ add list=Dude_blacklist address=78.11.84.61
 add list=Dude_blacklist address=78.12.145.214
 add list=Dude_blacklist address=78.128.113.90
 add list=Dude_blacklist address=78.142.242.13
+add list=Dude_blacklist address=78.177.205.177
 add list=Dude_blacklist address=78.177.220.33
 add list=Dude_blacklist address=78.27.109.227
 add list=Dude_blacklist address=78.41.207.217
