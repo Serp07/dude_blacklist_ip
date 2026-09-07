@@ -830,6 +830,7 @@ add list=Dude_blacklist address=137.184.195.254
 add list=Dude_blacklist address=137.184.236.234
 add list=Dude_blacklist address=137.184.37.81
 add list=Dude_blacklist address=137.184.8.92
+add list=Dude_blacklist address=138.113.251.176
 add list=Dude_blacklist address=138.186.140.29
 add list=Dude_blacklist address=138.186.143.16
 add list=Dude_blacklist address=138.197.122.95
