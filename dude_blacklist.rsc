@@ -1333,6 +1333,7 @@ add list=Dude_blacklist address=16.171.232.168
 add list=Dude_blacklist address=16.28.51.81
 add list=Dude_blacklist address=16.5.0.133
 add list=Dude_blacklist address=16.5.0.238
+add list=Dude_blacklist address=16.5.0.240
 add list=Dude_blacklist address=16.5.0.241
 add list=Dude_blacklist address=16.5.0.242
 add list=Dude_blacklist address=16.5.0.245
