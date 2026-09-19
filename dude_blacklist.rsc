@@ -1510,6 +1510,7 @@ add list=Dude_blacklist address=165.227.77.90
 add list=Dude_blacklist address=165.227.83.102
 add list=Dude_blacklist address=165.232.117.136
 add list=Dude_blacklist address=165.245.210.14
+add list=Dude_blacklist address=165.245.223.241
 add list=Dude_blacklist address=165.245.236.171
 add list=Dude_blacklist address=166.88.197.209
 add list=Dude_blacklist address=167.148.183.17
