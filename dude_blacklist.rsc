@@ -3028,6 +3028,7 @@ add list=Dude_blacklist address=20.65.137.167
 add list=Dude_blacklist address=20.65.138.21
 add list=Dude_blacklist address=20.65.138.97
 add list=Dude_blacklist address=20.65.144.90
+add list=Dude_blacklist address=20.65.145.151
 add list=Dude_blacklist address=20.65.154.109
 add list=Dude_blacklist address=20.65.154.175
 add list=Dude_blacklist address=20.65.154.83
