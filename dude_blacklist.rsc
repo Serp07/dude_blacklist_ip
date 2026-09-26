@@ -5026,6 +5026,7 @@ add list=Dude_blacklist address=64.94.156.224
 add list=Dude_blacklist address=64.94.156.227
 add list=Dude_blacklist address=64.94.156.229
 add list=Dude_blacklist address=64.94.156.232
+add list=Dude_blacklist address=64.94.156.234
 add list=Dude_blacklist address=64.94.156.236
 add list=Dude_blacklist address=64.94.159.230
 add list=Dude_blacklist address=64.94.159.234
