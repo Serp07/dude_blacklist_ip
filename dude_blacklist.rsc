@@ -3194,6 +3194,7 @@ add list=Dude_blacklist address=20.83.151.102
 add list=Dude_blacklist address=20.83.167.28
 add list=Dude_blacklist address=20.83.32.182
 add list=Dude_blacklist address=20.83.40.172
+add list=Dude_blacklist address=20.83.45.228
 add list=Dude_blacklist address=20.83.53.54
 add list=Dude_blacklist address=20.84.145.84
 add list=Dude_blacklist address=20.84.146.121
