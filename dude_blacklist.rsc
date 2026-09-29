@@ -4930,6 +4930,7 @@ add list=Dude_blacklist address=54.38.92.87
 add list=Dude_blacklist address=54.39.104.179
 add list=Dude_blacklist address=54.80.119.254
 add list=Dude_blacklist address=54.80.188.208
+add list=Dude_blacklist address=54.80.29.85
 add list=Dude_blacklist address=54.80.38.9
 add list=Dude_blacklist address=54.81.184.147
 add list=Dude_blacklist address=54.81.72.186
