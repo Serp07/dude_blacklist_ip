@@ -4853,6 +4853,7 @@ add list=Dude_blacklist address=52.231.226.186
 add list=Dude_blacklist address=52.234.238.185
 add list=Dude_blacklist address=52.234.239.252
 add list=Dude_blacklist address=52.240.137.174
+add list=Dude_blacklist address=52.248.43.85
 add list=Dude_blacklist address=52.249.37.174
 add list=Dude_blacklist address=52.249.38.136
 add list=Dude_blacklist address=52.249.38.212
