@@ -914,6 +914,7 @@ add list=Dude_blacklist address=135.237.81.94
 add list=Dude_blacklist address=136.0.251.108
 add list=Dude_blacklist address=136.0.42.161
 add list=Dude_blacklist address=136.64.20.173
+add list=Dude_blacklist address=137.184.123.160
 add list=Dude_blacklist address=137.184.16.101
 add list=Dude_blacklist address=137.184.176.216
 add list=Dude_blacklist address=137.184.185.188
