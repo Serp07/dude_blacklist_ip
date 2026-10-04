@@ -588,6 +588,7 @@ add list=Dude_blacklist address=121.127.46.98
 add list=Dude_blacklist address=121.199.161.156
 add list=Dude_blacklist address=121.199.161.218
 add list=Dude_blacklist address=121.199.162.33
+add list=Dude_blacklist address=121.199.162.77
 add list=Dude_blacklist address=121.199.172.125
 add list=Dude_blacklist address=121.199.172.55
 add list=Dude_blacklist address=121.199.173.172
@@ -609,6 +610,7 @@ add list=Dude_blacklist address=121.40.45.152
 add list=Dude_blacklist address=121.40.45.43
 add list=Dude_blacklist address=121.40.46.218
 add list=Dude_blacklist address=121.40.46.70
+add list=Dude_blacklist address=121.41.164.124
 add list=Dude_blacklist address=121.41.164.30
 add list=Dude_blacklist address=121.41.165.113
 add list=Dude_blacklist address=121.41.165.89
@@ -619,6 +621,7 @@ add list=Dude_blacklist address=121.43.116.44
 add list=Dude_blacklist address=121.43.119.114
 add list=Dude_blacklist address=121.43.119.2
 add list=Dude_blacklist address=121.43.145.219
+add list=Dude_blacklist address=121.43.145.58
 add list=Dude_blacklist address=121.43.146.23
 add list=Dude_blacklist address=121.43.153.135
 add list=Dude_blacklist address=121.43.154.179
@@ -4130,6 +4133,7 @@ add list=Dude_blacklist address=39.100.80.76
 add list=Dude_blacklist address=39.100.81.0
 add list=Dude_blacklist address=39.100.83.190
 add list=Dude_blacklist address=39.100.83.194
+add list=Dude_blacklist address=39.100.83.83
 add list=Dude_blacklist address=39.100.85.200
 add list=Dude_blacklist address=39.100.86.112
 add list=Dude_blacklist address=39.103.193.133
@@ -4675,6 +4679,9 @@ add list=Dude_blacklist address=47.94.222.2
 add list=Dude_blacklist address=47.94.82.6
 add list=Dude_blacklist address=47.94.96.144
 add list=Dude_blacklist address=47.95.192.127
+add list=Dude_blacklist address=47.95.194.245
+add list=Dude_blacklist address=47.95.194.31
+add list=Dude_blacklist address=47.95.194.74
 add list=Dude_blacklist address=47.95.199.14
 add list=Dude_blacklist address=47.95.203.225
 add list=Dude_blacklist address=47.95.204.194
