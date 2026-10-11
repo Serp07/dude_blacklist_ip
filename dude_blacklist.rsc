@@ -630,6 +630,7 @@ add list=Dude_blacklist address=121.40.46.218
 add list=Dude_blacklist address=121.40.46.70
 add list=Dude_blacklist address=121.40.47.190
 add list=Dude_blacklist address=121.40.64.121
+add list=Dude_blacklist address=121.41.164.100
 add list=Dude_blacklist address=121.41.164.124
 add list=Dude_blacklist address=121.41.164.30
 add list=Dude_blacklist address=121.41.165.113
