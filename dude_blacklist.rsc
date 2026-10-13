@@ -2840,6 +2840,7 @@ add list=Dude_blacklist address=195.63.145.162
 add list=Dude_blacklist address=195.86.128.141
 add list=Dude_blacklist address=195.86.16.243
 add list=Dude_blacklist address=195.86.192.13
+add list=Dude_blacklist address=195.86.192.59
 add list=Dude_blacklist address=195.86.215.32
 add list=Dude_blacklist address=195.86.8.227
 add list=Dude_blacklist address=195.86.93.132
