@@ -4085,6 +4085,7 @@ add list=Dude_blacklist address=34.93.104.82
 add list=Dude_blacklist address=34.95.176.201
 add list=Dude_blacklist address=34.96.160.158
 add list=Dude_blacklist address=34.97.245.55
+add list=Dude_blacklist address=35.153.211.244
 add list=Dude_blacklist address=35.159.19.162
 add list=Dude_blacklist address=35.166.212.229
 add list=Dude_blacklist address=35.167.22.66
