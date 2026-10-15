@@ -6314,6 +6314,7 @@ add list=Dude_blacklist address=98.84.41.224
 add list=Dude_blacklist address=98.86.170.39
 add list=Dude_blacklist address=98.89.36.82
 add list=Dude_blacklist address=98.93.231.76
+add list=Dude_blacklist address=98.94.94.236
 add list=Dude_blacklist address=98.96.201.194
 add list=Dude_blacklist address=98.96.213.22
 add list=Dude_blacklist address=98.98.13.238
