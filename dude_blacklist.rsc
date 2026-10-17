@@ -5100,6 +5100,7 @@ add list=Dude_blacklist address=51.224.27.84
 add list=Dude_blacklist address=51.224.35.62
 add list=Dude_blacklist address=51.224.40.254
 add list=Dude_blacklist address=51.224.42.139
+add list=Dude_blacklist address=51.224.46.245
 add list=Dude_blacklist address=51.224.50.192
 add list=Dude_blacklist address=51.224.52.200
 add list=Dude_blacklist address=51.224.54.253
