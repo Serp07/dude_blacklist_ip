@@ -1022,6 +1022,7 @@ add list=Dude_blacklist address=137.184.176.216
 add list=Dude_blacklist address=137.184.185.188
 add list=Dude_blacklist address=137.184.189.8
 add list=Dude_blacklist address=137.184.195.254
+add list=Dude_blacklist address=137.184.219.87
 add list=Dude_blacklist address=137.184.236.234
 add list=Dude_blacklist address=137.184.37.81
 add list=Dude_blacklist address=137.184.8.92
