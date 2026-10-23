@@ -3138,6 +3138,7 @@ add list=Dude_blacklist address=20.118.225.19
 add list=Dude_blacklist address=20.118.232.75
 add list=Dude_blacklist address=20.118.233.215
 add list=Dude_blacklist address=20.118.240.192
+add list=Dude_blacklist address=20.118.27.138
 add list=Dude_blacklist address=20.118.32.171
 add list=Dude_blacklist address=20.118.32.39
 add list=Dude_blacklist address=20.118.64.67
