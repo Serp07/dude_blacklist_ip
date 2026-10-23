@@ -1220,6 +1220,7 @@ add list=Dude_blacklist address=147.185.132.39
 add list=Dude_blacklist address=147.185.132.43
 add list=Dude_blacklist address=147.185.132.47
 add list=Dude_blacklist address=147.185.132.49
+add list=Dude_blacklist address=147.185.132.52
 add list=Dude_blacklist address=147.185.132.54
 add list=Dude_blacklist address=147.185.132.55
 add list=Dude_blacklist address=147.185.132.70
