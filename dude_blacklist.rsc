@@ -967,6 +967,7 @@ add list=Dude_blacklist address=134.168.249.62
 add list=Dude_blacklist address=134.199.215.117
 add list=Dude_blacklist address=134.209.119.139
 add list=Dude_blacklist address=134.209.221.20
+add list=Dude_blacklist address=134.209.248.35
 add list=Dude_blacklist address=134.209.77.161
 add list=Dude_blacklist address=134.249.13.154
 add list=Dude_blacklist address=134.249.141.119
