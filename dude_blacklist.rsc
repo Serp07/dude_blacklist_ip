@@ -5556,6 +5556,7 @@ add list=Dude_blacklist address=64.23.141.72
 add list=Dude_blacklist address=64.23.142.152
 add list=Dude_blacklist address=64.23.153.224
 add list=Dude_blacklist address=64.23.160.38
+add list=Dude_blacklist address=64.23.163.136
 add list=Dude_blacklist address=64.23.192.132
 add list=Dude_blacklist address=64.23.196.114
 add list=Dude_blacklist address=64.23.239.140
