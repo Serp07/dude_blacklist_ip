@@ -6467,6 +6467,7 @@ add list=Dude_blacklist address=85.217.140.39
 add list=Dude_blacklist address=85.217.140.40
 add list=Dude_blacklist address=85.217.140.41
 add list=Dude_blacklist address=85.217.140.44
+add list=Dude_blacklist address=85.217.140.48
 add list=Dude_blacklist address=85.217.140.49
 add list=Dude_blacklist address=85.217.140.51
 add list=Dude_blacklist address=85.217.140.53
