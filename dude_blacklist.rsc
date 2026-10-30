@@ -2953,6 +2953,7 @@ add list=Dude_blacklist address=194.48.141.210
 add list=Dude_blacklist address=194.5.147.32
 add list=Dude_blacklist address=194.50.16.15
 add list=Dude_blacklist address=194.50.16.253
+add list=Dude_blacklist address=194.50.16.73
 add list=Dude_blacklist address=194.50.16.75
 add list=Dude_blacklist address=194.50.235.133
 add list=Dude_blacklist address=194.50.235.134
