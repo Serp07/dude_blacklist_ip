@@ -1193,6 +1193,7 @@ add list=Dude_blacklist address=142.93.118.95
 add list=Dude_blacklist address=142.93.16.49
 add list=Dude_blacklist address=142.93.163.136
 add list=Dude_blacklist address=142.93.199.172
+add list=Dude_blacklist address=142.93.199.32
 add list=Dude_blacklist address=142.93.20.52
 add list=Dude_blacklist address=142.93.4.30
 add list=Dude_blacklist address=142.93.50.80
