@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list=Dude_blacklist]
 /ip firewall address-list
+add list=Dude_blacklist address=1.161.11.2
 add list=Dude_blacklist address=1.178.45.205
 add list=Dude_blacklist address=1.202.113.177
 add list=Dude_blacklist address=1.24.16.211
@@ -3763,6 +3764,7 @@ add list=Dude_blacklist address=205.210.31.201
 add list=Dude_blacklist address=205.210.31.202
 add list=Dude_blacklist address=205.210.31.207
 add list=Dude_blacklist address=205.210.31.208
+add list=Dude_blacklist address=205.210.31.211
 add list=Dude_blacklist address=205.210.31.218
 add list=Dude_blacklist address=205.210.31.22
 add list=Dude_blacklist address=205.210.31.222
@@ -5590,6 +5592,7 @@ add list=Dude_blacklist address=52.165.80.210
 add list=Dude_blacklist address=52.165.81.92
 add list=Dude_blacklist address=52.165.83.166
 add list=Dude_blacklist address=52.165.88.92
+add list=Dude_blacklist address=52.165.89.155
 add list=Dude_blacklist address=52.180.137.70
 add list=Dude_blacklist address=52.180.137.77
 add list=Dude_blacklist address=52.180.144.125
@@ -6783,6 +6786,7 @@ add list=Dude_blacklist address=91.230.168.210
 add list=Dude_blacklist address=91.230.168.214
 add list=Dude_blacklist address=91.230.168.247
 add list=Dude_blacklist address=91.230.168.30
+add list=Dude_blacklist address=91.230.168.47
 add list=Dude_blacklist address=91.230.168.6
 add list=Dude_blacklist address=91.230.168.88
 add list=Dude_blacklist address=91.230.168.95
