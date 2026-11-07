@@ -4004,6 +4004,7 @@ add list=Dude_blacklist address=216.238.101.123
 add list=Dude_blacklist address=216.238.123.63
 add list=Dude_blacklist address=216.238.78.150
 add list=Dude_blacklist address=216.25.89.100
+add list=Dude_blacklist address=216.25.89.116
 add list=Dude_blacklist address=216.25.89.158
 add list=Dude_blacklist address=216.25.89.73
 add list=Dude_blacklist address=216.25.89.77
@@ -5083,7 +5084,9 @@ add list=Dude_blacklist address=45.133.172.55
 add list=Dude_blacklist address=45.133.173.104
 add list=Dude_blacklist address=45.133.173.111
 add list=Dude_blacklist address=45.133.173.131
+add list=Dude_blacklist address=45.133.173.134
 add list=Dude_blacklist address=45.133.173.140
+add list=Dude_blacklist address=45.133.173.150
 add list=Dude_blacklist address=45.133.173.179
 add list=Dude_blacklist address=45.133.173.196
 add list=Dude_blacklist address=45.133.173.212
@@ -5094,6 +5097,7 @@ add list=Dude_blacklist address=45.133.173.44
 add list=Dude_blacklist address=45.133.173.48
 add list=Dude_blacklist address=45.133.173.61
 add list=Dude_blacklist address=45.133.173.64
+add list=Dude_blacklist address=45.133.173.67
 add list=Dude_blacklist address=45.133.173.74
 add list=Dude_blacklist address=45.133.173.96
 add list=Dude_blacklist address=45.134.225.248
@@ -5530,6 +5534,7 @@ add list=Dude_blacklist address=5.252.83.172
 add list=Dude_blacklist address=5.252.83.192
 add list=Dude_blacklist address=5.252.83.196
 add list=Dude_blacklist address=5.252.83.209
+add list=Dude_blacklist address=5.252.83.214
 add list=Dude_blacklist address=5.252.83.240
 add list=Dude_blacklist address=5.252.83.245
 add list=Dude_blacklist address=5.252.83.29
@@ -6572,6 +6577,7 @@ add list=Dude_blacklist address=81.19.216.123
 add list=Dude_blacklist address=81.19.216.70
 add list=Dude_blacklist address=81.19.216.72
 add list=Dude_blacklist address=81.19.216.90
+add list=Dude_blacklist address=81.19.216.91
 add list=Dude_blacklist address=81.19.216.94
 add list=Dude_blacklist address=81.19.219.195
 add list=Dude_blacklist address=81.19.219.197
