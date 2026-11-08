@@ -6215,6 +6215,7 @@ add list=Dude_blacklist address=66.132.195.50
 add list=Dude_blacklist address=66.132.195.52
 add list=Dude_blacklist address=66.132.195.56
 add list=Dude_blacklist address=66.132.195.61
+add list=Dude_blacklist address=66.132.195.62
 add list=Dude_blacklist address=66.132.195.70
 add list=Dude_blacklist address=66.132.195.78
 add list=Dude_blacklist address=66.132.195.92
