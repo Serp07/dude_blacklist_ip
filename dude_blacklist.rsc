@@ -1533,6 +1533,7 @@ add list=Dude_blacklist address=154.16.44.32
 add list=Dude_blacklist address=154.16.44.4
 add list=Dude_blacklist address=154.16.44.41
 add list=Dude_blacklist address=154.16.44.55
+add list=Dude_blacklist address=154.16.44.63
 add list=Dude_blacklist address=154.16.44.66
 add list=Dude_blacklist address=154.16.44.80
 add list=Dude_blacklist address=154.16.44.83
@@ -3373,6 +3374,7 @@ add list=Dude_blacklist address=2.57.17.201
 add list=Dude_blacklist address=2.57.17.202
 add list=Dude_blacklist address=2.57.17.203
 add list=Dude_blacklist address=2.57.17.219
+add list=Dude_blacklist address=2.57.17.225
 add list=Dude_blacklist address=2.57.17.227
 add list=Dude_blacklist address=2.57.17.26
 add list=Dude_blacklist address=2.57.17.36
@@ -4884,6 +4886,7 @@ add list=Dude_blacklist address=40.124.80.149
 add list=Dude_blacklist address=40.124.81.12
 add list=Dude_blacklist address=40.124.81.155
 add list=Dude_blacklist address=40.124.81.157
+add list=Dude_blacklist address=40.124.84.67
 add list=Dude_blacklist address=40.162.12.78
 add list=Dude_blacklist address=40.176.63.228
 add list=Dude_blacklist address=40.233.20.200
@@ -5126,6 +5129,7 @@ add list=Dude_blacklist address=45.133.173.209
 add list=Dude_blacklist address=45.133.173.212
 add list=Dude_blacklist address=45.133.173.213
 add list=Dude_blacklist address=45.133.173.22
+add list=Dude_blacklist address=45.133.173.244
 add list=Dude_blacklist address=45.133.173.33
 add list=Dude_blacklist address=45.133.173.44
 add list=Dude_blacklist address=45.133.173.48
@@ -5133,6 +5137,7 @@ add list=Dude_blacklist address=45.133.173.61
 add list=Dude_blacklist address=45.133.173.64
 add list=Dude_blacklist address=45.133.173.67
 add list=Dude_blacklist address=45.133.173.74
+add list=Dude_blacklist address=45.133.173.75
 add list=Dude_blacklist address=45.133.173.96
 add list=Dude_blacklist address=45.134.225.248
 add list=Dude_blacklist address=45.134.48.23
@@ -6625,6 +6630,7 @@ add list=Dude_blacklist address=81.181.111.50
 add list=Dude_blacklist address=81.181.111.56
 add list=Dude_blacklist address=81.181.113.78
 add list=Dude_blacklist address=81.181.68.110
+add list=Dude_blacklist address=81.19.216.104
 add list=Dude_blacklist address=81.19.216.110
 add list=Dude_blacklist address=81.19.216.123
 add list=Dude_blacklist address=81.19.216.70
@@ -6874,6 +6880,7 @@ add list=Dude_blacklist address=89.44.197.140
 add list=Dude_blacklist address=9.234.8.52
 add list=Dude_blacklist address=91.124.237.21
 add list=Dude_blacklist address=91.134.73.230
+add list=Dude_blacklist address=91.148.134.215
 add list=Dude_blacklist address=91.148.134.216
 add list=Dude_blacklist address=91.148.134.77
 add list=Dude_blacklist address=91.148.135.172
