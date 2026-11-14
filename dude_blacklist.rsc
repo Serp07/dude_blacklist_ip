@@ -7139,6 +7139,7 @@ add list=Dude_blacklist address=98.80.4.90
 add list=Dude_blacklist address=98.80.4.92
 add list=Dude_blacklist address=98.81.96.173
 add list=Dude_blacklist address=98.83.148.118
+add list=Dude_blacklist address=98.83.154.200
 add list=Dude_blacklist address=98.84.41.224
 add list=Dude_blacklist address=98.86.170.39
 add list=Dude_blacklist address=98.89.36.82
