@@ -6414,6 +6414,7 @@ add list=Dude_blacklist address=68.183.120.40
 add list=Dude_blacklist address=68.183.129.171
 add list=Dude_blacklist address=68.183.131.127
 add list=Dude_blacklist address=68.183.143.129
+add list=Dude_blacklist address=68.183.154.240
 add list=Dude_blacklist address=68.183.171.67
 add list=Dude_blacklist address=68.183.192.94
 add list=Dude_blacklist address=68.183.203.118
