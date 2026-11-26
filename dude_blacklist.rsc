@@ -5154,6 +5154,7 @@ add list=Dude_blacklist address=40.124.175.76
 add list=Dude_blacklist address=40.124.175.86
 add list=Dude_blacklist address=40.124.178.90
 add list=Dude_blacklist address=40.124.180.6
+add list=Dude_blacklist address=40.124.180.9
 add list=Dude_blacklist address=40.124.185.206
 add list=Dude_blacklist address=40.124.185.25
 add list=Dude_blacklist address=40.124.186.106
@@ -5285,6 +5286,7 @@ add list=Dude_blacklist address=43.196.37.123
 add list=Dude_blacklist address=43.196.48.194
 add list=Dude_blacklist address=43.196.48.57
 add list=Dude_blacklist address=43.196.49.224
+add list=Dude_blacklist address=43.196.49.65
 add list=Dude_blacklist address=43.196.50.114
 add list=Dude_blacklist address=43.196.54.60
 add list=Dude_blacklist address=43.196.58.55
