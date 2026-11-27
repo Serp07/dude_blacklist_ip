@@ -1857,6 +1857,7 @@ add list=Dude_blacklist address=160.119.76.63
 add list=Dude_blacklist address=160.187.41.86
 add list=Dude_blacklist address=160.187.68.218
 add list=Dude_blacklist address=160.187.69.189
+add list=Dude_blacklist address=160.187.69.217
 add list=Dude_blacklist address=160.191.175.206
 add list=Dude_blacklist address=160.25.232.193
 add list=Dude_blacklist address=160.30.192.160
